@@ -64,6 +64,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/DikaArdnt/Hisoka-Morou
 cd Hisoka-Morou
+python3 setup.py install
 npm install
 ```
 
