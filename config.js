@@ -1,6 +1,6 @@
 /**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Contact Me on wa.me/6288973099498
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285762473480',]
-global.premium = ['6285762473480']
-global.packname = 'Hisoka Morrow'
-global.author = 'ILHAM Ganz'
+global.owner = ['6288973099498',]
+global.premium = ['6288973099498']
+global.packname = 'GMX-BOTZ_MD'
+global.author = 'GMX RAYYYY'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
